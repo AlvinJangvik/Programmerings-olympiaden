@@ -1,0 +1,7 @@
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe.config
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.pdb
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.csprojAssemblyReference.cache
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.exe
+C:\Users\Elev\Desktop\Programmerings olympiaden\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.pdb
